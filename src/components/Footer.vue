@@ -83,6 +83,8 @@
                 <div class="col-md-12">
                     <hr>
                     © <strong>NELAYAN - Website UMKM Nelayan</strong> {{ new Date().getFullYear() }} • Hak Cipta Dilindungi
+                    <br>
+                    <b>Sedang Dalam Pengembangan. Mohon Menanti ya :)</b>
                 </div>
             </div>
         </div>
