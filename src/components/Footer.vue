@@ -9,8 +9,9 @@
                         Website UMKM Nelayan (NELAYAN) merupakan website yang ditujukan kepada masyarakat perisir/Nelayan dalam membantu meningkatkan perekonomian dengan
                         hasil laut yang melimpah dan tentunya masih alami(Fresh).
                     </p>
+                    <b>Hint :</b>
                     <br>
-                    Website ini bukan website statis,tetapi dinamis. Data diambil dari server role(admin) yang di di integrasikan ke client(frontend) dengan menggunakan Restful API.
+                    <p style="font-family: cursive; color:#008B8B">Website ini bukan website statis,tetapi dinamis. Data diambil dari server role(admin) yang di di integrasikan ke client(frontend) dengan menggunakan Restful API.</p>
 
                     <div class="social">
                         <a href="#" class="mr-4"> <i class="fab fa-facebook fa-2x"></i></a>
