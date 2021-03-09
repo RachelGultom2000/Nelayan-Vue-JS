@@ -11,7 +11,7 @@
                     </p>
                     <b>Hint :</b>
                     <br>
-                    <p style="font-family: cursive; color:#008B8B">Website ini bukan website statis,tetapi dinamis. Data diambil dari server role(admin) yang di di integrasikan ke client(frontend) dengan menggunakan Restful API.</p>
+                    <b><p style="font-family: cursive; color:#008B8B">Website ini bukan website statis,tetapi dinamis. Data diambil dari server role(admin) yang di di integrasikan ke client(frontend) dengan menggunakan Restful API.</p></b>
 
                     <div class="social">
                         <a href="#" class="mr-4"> <i class="fab fa-facebook fa-2x"></i></a>
