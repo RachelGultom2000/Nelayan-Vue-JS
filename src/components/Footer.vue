@@ -5,13 +5,13 @@
                 <div class="col-md-5 mb-4">
                     <h4 class="font-weight-bold">TENTANG</h4>
                     <hr style="border-top: 3px solid rgb(226 232 240);border-radius:.5rem">
-                    <p style="font-family: cursive;">
+                    <p style="font-family: helvetica;">
                         Website UMKM Nelayan (NELAYAN) merupakan website yang ditujukan kepada masyarakat perisir/Nelayan dalam membantu meningkatkan perekonomian dengan
                         hasil laut yang melimpah dan tentunya masih alami(Fresh).
                     </p>
                     <b>Hint :</b>
                     <br>
-                    <b><p style="font-family: cursive; color:#008B8B">Website ini bukan website statis,tetapi dinamis. Data diambil dari server role(admin) yang di-integrasikan ke client(frontend) dengan menggunakan Restful API.</p></b>
+                    <b><p style="font-family: helvetica; color:#008B8B">Website ini bukan website statis,tetapi dinamis. Data diambil dari server role(admin) yang di-integrasikan ke client(frontend) dengan menggunakan Restful API.</p></b>
 
                     <div class="social">
                         <a href="#" class="mr-4"> <i class="fab fa-facebook fa-2x"></i></a>
