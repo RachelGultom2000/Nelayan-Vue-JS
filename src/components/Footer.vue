@@ -84,7 +84,8 @@
                     <hr>
                     © <strong>NELAYAN - Website UMKM Nelayan</strong> {{ new Date().getFullYear() }} • Hak Cipta Dilindungi
                     <br>
-                    <b><h3>Sedang Dalam Pengembangan. Mohon Menanti ya :)</h3></b>
+                    <br>
+                    <b><h3 style="color: #00008B">Sedang Dalam Pengembangan. Mohon Menanti ya :)</h3></b>
                 </div>
             </div>
         </div>
