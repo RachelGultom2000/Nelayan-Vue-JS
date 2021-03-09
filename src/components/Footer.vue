@@ -75,7 +75,7 @@
                     <p>
                         <img src="@/assets/linkedin.png"> <b> Linkedin</b>
                         <br>
-                        https://www.linkedin.com/in/rachel-gultom-66133b197
+                        <a href="https://www.linkedin.com/in/rachel-gultom-66133b197"></a>
                     </p>
                 </div>
             </div>
