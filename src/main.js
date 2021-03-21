@@ -1,5 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import VueSocialSharing from 'vue-social-sharing' // import vue social sharing
 
 //import router
 import router from './router'

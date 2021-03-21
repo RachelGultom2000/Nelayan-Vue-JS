@@ -18,6 +18,15 @@
 
                     <div class="social">
                         <a href="#" class="mr-4"> <i class="fab fa-facebook fa-2x"></i></a>
+                         <ShareNetwork
+                                network="facebook"
+                                url="https://halotoba.netlify.app/"
+                                title="HALO Toba - Danau Toba for Us"
+                                description="Website pariwisata yang dikhususkan untuk destinasi Danau Toba"
+                                quote="Website Mini untuk Danau Toba"
+                                hashtags="halotoba">
+                                Bagikan Website ini
+                            </ShareNetwork>
                         <!-- <a href="#" class="mr-4" style="color:#00c4ff"> <i class="fab fa-twitter fa-2x"></i></a> -->
                         <a href="https://www.instagram.com/rachelgultom01/" class="mr-4" style="color: #de2fb8;"> <i class="fab fa-instagram fa-2x"></i></a>
                         <a href="#" style="color: red;"> <i class="fab fa-youtube fa-2x"></i></a>
