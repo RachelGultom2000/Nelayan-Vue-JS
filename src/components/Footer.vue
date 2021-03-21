@@ -82,6 +82,7 @@
                     <p>
                         <img src="@/assets/linkedin.png"> <b> Linkedin</b>
                         <br>
+                        <a href="https://www.linkedin.com/in/rachel-gultom-66133b197"></a>
                         https://www.linkedin.com/in/rachel-gultom-66133b197
                     </p>
                 </div>
@@ -92,7 +93,7 @@
                     © <strong>NELAYAN - Website UMKM Nelayan</strong> {{ new Date().getFullYear() }} • Hak Cipta Dilindungi
                     <br>
                     <br>
-                    <b><h4 style="color: #00008B">Ini hanya pengimplementasian untuk solusi, aplikasi bisa dikembangkan menjadi lebih baik lagi</h4></b>
+                    <b><h4 style="color: #00008B">Aplikasi ini dapat dikembangkan menjadi lebih baik :)</h4></b>
                 </div>
             </div>
         </div>
