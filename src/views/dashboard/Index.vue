@@ -10,12 +10,12 @@
                         <h5 class="font-weight-bold"> <i class="fas fa-tachometer-alt"></i> DASHBOARD</h5>
                         <hr>
                         Selamat Datang  <strong> {{user.name}}</strong> <br> <br>
-                        <p style="font-family: cursive;">Mari berbelanja disini untuk mendapatkan
-                        hasil yang memuaskan.Anda dapat berinteraksi langsung dengan Nelayan untuk mendapat 
+                        <p style="font-family: cursive;">Terima kasih telah bergabung :) <br><br>
+                        Yuk berbelanja disini.Kamu dapat berbelanja seperti di pasar pada umumnya dan dapat berinteraksi dengan Nelayan untuk mendapat 
                         apa yang anda inginkan dari hasil tangkapan ataupun produk dari para Nelayan.</p>
                          
                         <b><p style="color:#6666FF; font-family: cursive;">Mari kita berkontribusi untuk memajukan dan memulihkan perekonomian masyarakat terkhusus
-                        para Nelayan agar kehidupan kita semakin sejahtera :)</p></b>
+                        para Nelayan dengan memanfaatkan teknologi saat ini.</p></b>
 
                     </div>
                 </div>
