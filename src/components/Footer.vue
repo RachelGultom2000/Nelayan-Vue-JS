@@ -5,7 +5,7 @@
                 <div class="col-md-5 mb-4">
                     <h4 class="font-weight-bold">TENTANG</h4>
                     <hr style="border-top: 3px solid rgb(226 232 240);border-radius:.5rem">
-                    <p style="font-family: candara;">
+                    <p style="font-family: candara; ">
                         Website UMKM Nelayan (NELAYAN) merupakan website yang ditujukan kepada masyarakat perisir/Nelayan dalam membantu meningkatkan perekonomian dengan
                         hasil laut yang melimpah dan tentunya masih alami(Fresh).
                     </p>
