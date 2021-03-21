@@ -7,16 +7,19 @@
                     <hr style="border-top: 3px solid rgb(226 232 240);border-radius:.5rem">
                     <p style="font-family: candara; ">
                         Website UMKM Nelayan (NELAYAN) merupakan website yang ditujukan kepada masyarakat perisir/Nelayan dalam membantu meningkatkan perekonomian dengan
-                        hasil laut yang melimpah dan tentunya masih alami(Fresh).
+                        menjual hasil laut yang melimpah dalam sebuah aplikasi(online).
                     </p>
                     <b>Hint :</b>
                     <br>
-                    <b><p style="font-family: candara; color:#008B8B">Website ini bukan website statis,tetapi dinamis. Data diambil dari server role(admin) yang di-integrasikan ke client(frontend) dengan menggunakan Restful API.</p></b>
+                    <b><p style="font-family: candara; color:#008B8B">Website dibangun dengan dinamis.Data diambil dari server admin(backend) yang di-integrasikan ke client(frontend) yang keduanya dihubungkan dengan menggunakan Restful API.
+                    Menggunakan Single Page Application (SPA),aplikasi terasa lebih ringan dan tidak membebani dari sisi server,serta proses chaching lebih mudah
+                    karena memanfaatkan local storage pada browser.
+                    </p></b>
 
                     <div class="social">
                         <a href="#" class="mr-4"> <i class="fab fa-facebook fa-2x"></i></a>
                         <!-- <a href="#" class="mr-4" style="color:#00c4ff"> <i class="fab fa-twitter fa-2x"></i></a> -->
-                        <a href="#" class="mr-4" style="color: #de2fb8;"> <i class="fab fa-instagram fa-2x"></i></a>
+                        <a href="https://www.instagram.com/rachelgultom01/" class="mr-4" style="color: #de2fb8;"> <i class="fab fa-instagram fa-2x"></i></a>
                         <a href="#" style="color: red;"> <i class="fab fa-youtube fa-2x"></i></a>
                     </div>
                 </div>
