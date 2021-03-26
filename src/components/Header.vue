@@ -94,7 +94,7 @@ import { useStore } from 'vuex'
 
             function search() {
  
-	           console.log(keywords.value)
+	           store.dispatch('product/getSearchProduct', keywords.value);
  
             } 
 
